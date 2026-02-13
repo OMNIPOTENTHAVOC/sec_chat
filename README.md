@@ -553,6 +553,4 @@ It helps others discover this project and motivates continued development.
 
 ---
 
-**Built with ❤️ and 🔐 by Siddhansh Srivastava**
-
-*Understanding failure is the foundation of security.*
+**© 2026 SIddhansh Srivastava**
