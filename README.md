@@ -456,7 +456,6 @@ black .
 
 ## 📚 Documentation
 
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical deep dive, cryptographic design
 - **[TESTING_GUIDE.md](TESTING_GUIDE.md)** - Test documentation and security validation
 - **[DEPLOYMENT.md](DEPLOYMENT.md)** - Production deployment guide *(coming soon)*
 - **[API.md](API.md)** - API documentation *(coming soon)*
