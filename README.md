@@ -8,7 +8,7 @@
 
 A production-grade secure chat system built from scratch using **X25519 ECDH**, **HKDF**, and **AES-256-GCM**. Zero-knowledge server architecture ensures your messages stay private.
 
-**[View Demo](#quick-demo)** | **[Deploy for Friends](#deployment-guide)** | **[Architecture](ARCHITECTURE.md)** | **[Roadmap](#roadmap)**
+**[View Demo](#quick-demo)** | **[Deploy for Friends](#deployment-guide)** | **[Roadmap](#roadmap)**
 
 ---
 
